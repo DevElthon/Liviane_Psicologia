@@ -48,14 +48,14 @@ main {
 .Sobre {
     background-color: rgb(189, 227, 227);
     margin-left: 25%;
-    height: 700px;
+    height: 750px;
 }
 
 .Sobre img{
     margin-top: 80px;
     margin-bottom: 80px;
     margin-left: -200px;
-    width: 100%;
+    width: 30%;
     border-radius: 50%;
     overflow: hidden;
 }
@@ -64,7 +64,7 @@ main {
     position: absolute;
     float:right;
     padding-left: 26.5%;
-    margin-top: -300px;
+    margin-top: -350px;
     margin-bottom: -210px;
     font-size: 24px;
 }
@@ -73,16 +73,16 @@ main {
     position: absolute;
     float: left;
     padding-left: 26.5%;
-    margin-top: -400px;
+    margin-top: -450px;
     margin-bottom: -400px;
-    font-size: 60px;
+    font-size: 54px;
 }
 
 .Sobre p{
     position: absolute;
     float: left;
     padding-left: 26.5%;
-    margin-top: -240px;
+    margin-top: -290px;
     margin-bottom: -24px;
     text-align: left;
     font-size: 18px;
@@ -105,7 +105,12 @@ main {
 }
 
 .ParagrafoDeConclusao {
-    margin-left: 100px;
+    margin-left: 10px;
     font-size: 18px;
     width: 400px;
+}
+
+.Logo_Bottom{
+    width: 40%;
+    margin-top: 60px;
 }

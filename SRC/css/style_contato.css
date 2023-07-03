@@ -155,7 +155,12 @@ main {
 }
 
 .ParagrafoDeConclusao {
-    margin-left: 100px;
+    margin-left: 10px;
     font-size: 18px;
     width: 400px;
+}
+
+.Logo_Bottom{
+    width: 40%;
+    margin-top: 60px;
 }

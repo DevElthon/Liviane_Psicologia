@@ -1,0 +1,742 @@
+@media (max-width:1280px){
+    .Problemas div h1{
+        margin-top: 100px;
+    }
+    .Problemas div h2{
+        margin-top: 250px;
+    }
+    .Problemas button{
+        margin-top: 450px;
+    }
+    .Sobre div img{
+        margin-top: 45px;
+        margin-bottom: 45px;
+    }
+    .Sobre div h4{
+        margin-top: -180px;
+        margin-bottom: -180px;
+    }
+    
+    .Sobre div h2{
+        margin-top: -230px;
+        margin-bottom: -230px;
+    }
+    
+    .Sobre div p{
+        margin-top: -150px;
+        margin-bottom: -150px;
+    }
+    .Finalizacao {
+        margin-left: 100px;
+    }
+    
+    .Contato{
+        margin-left: 700px;
+    }
+}
+
+@media (max-width:1024px){
+    .Problemas div h1{
+        margin-top: 50px;
+        font-size: 80px;
+    }
+    .Problemas div h2{
+        margin-top: 180px;
+    }
+    .Problemas button{
+        margin-top: 380px;
+    }
+
+    .Sobre div img{
+        margin-top: 55px;
+        margin-bottom: 55px;
+    }
+    .Sobre div h4{
+        margin-top: -160px;
+        margin-bottom: -160px;
+    }
+    .Sobre div h2{
+        margin-top: -210px;
+        margin-bottom: -210px;
+    }
+    .Sobre div p{
+        margin-top: -130px;
+        margin-bottom: -130px;
+    }
+
+    .Finalizacao {
+        margin-left: 20px;
+    }
+    
+    .Contato{
+        margin-left: 500px;
+    }
+}
+
+@media (max-width:912px){
+    .Problemas div h2{
+        margin-top: 170px;
+        font-size: 20px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        margin-top: 300px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 10%;
+        height: 350px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+    }
+    .Sobre div h4{
+        margin-top: -180px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+    }
+    .Sobre div h2{
+        margin-top: -230px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+    }
+    .Sobre div p{
+        margin-top: -150px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+    }
+
+    .Finalizacao {
+        margin-left: 10px;
+    }
+    .Contato{
+        margin-left: 400px;
+        margin-top: -160px;
+        font-size: 16px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 100px;
+        font-size: 16px;
+        width: 200px;
+    }
+}
+
+@media (max-width:820px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 20px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Problemas div h1{
+        margin-top: 50px;
+        font-size: 60px;
+    }
+    .Problemas div h2{
+        margin-top: 130px;
+        font-size: 18px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        margin-top: 280px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 10%;
+        height: 350px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -160px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+    }
+    .Sobre div h2{
+        margin-top: -210px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+    }
+    .Sobre div p{
+        margin-top: -130px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+    }
+
+    .Finalizacao {
+        margin-left: 10px;
+    }
+    .Contato{
+        margin-left: 350px;
+        margin-top: -160px;
+        font-size: 16px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 70px;
+        font-size: 16px;
+    }
+    .Logo_Bottom {
+        padding-left: 70px;
+    }
+}
+
+@media (max-width:768px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 20px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Problemas div h1{
+        margin-top: 50px;
+        font-size: 60px;
+    }
+    .Problemas div h2{
+        margin-top: 130px;
+        font-size: 18px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        margin-top: 280px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 10%;
+        height: 350px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -160px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+    }
+    .Sobre div h2{
+        margin-top: -210px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+    }
+    .Sobre div p{
+        margin-top: -130px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+    }
+
+    .Finalizacao {
+        margin-left: 10px;
+    }
+    .Contato{
+        margin-left: 350px;
+        margin-top: -160px;
+        font-size: 16px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 70px;
+        font-size: 16px;
+    }
+    .Logo_Bottom {
+        padding-left: 70px;
+    }
+}
+
+@media (max-width:540px){
+    header nav{
+        padding-right: 70px;
+    }
+    header nav ul {
+        font-size: 24px;
+    }
+    .Logo {
+        padding-left: 140px;
+    }
+
+    .Problemas div h1{
+        margin-top: 100px;
+        font-size: 40px;
+    }
+    .Problemas div h2{
+        margin-top: 170px;
+        font-size: 14px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        height: 40px;
+        width: 160px;
+        margin-top: 280px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 0%;
+        height: 350px;
+    }
+    .Sobre div img{
+        width: 30%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -160px;
+        margin-bottom: -160px;
+        padding-left: 45%;
+        font-size: 16px;
+    }
+    .Sobre div h2{
+        margin-top: -210px;
+        margin-bottom: -210px;
+        padding-left: 45%;
+        font-size: 20px;
+    }
+    .Sobre div p{
+        margin-top: -130px;
+        margin-bottom: -130px;
+        padding-left: 45%;
+        font-size: 13px;
+        width: 250px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 270px;
+        margin-top: -140px;
+        font-size: 12px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 40px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .Logo_Bottom{
+        width: 30%;
+        height: 30%;
+        margin-left: -30px;
+    }
+}
+
+@media (max-width:412px){
+    header nav{
+        padding-right: 25px;
+    }
+    header nav ul {
+        font-size: 22px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Problemas div h1{
+        margin-top: 100px;
+        font-size: 30px;
+    }
+    .Problemas div h2{
+        margin-top: 140px;
+        font-size: 12px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        height: 30px;
+        width: 120px;
+        margin-top: 180px;
+        margin-bottom: -50px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 0%;
+        height: 200px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -130px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+        font-size: 14px;
+    }
+    .Sobre div h2{
+        margin-top: -170px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+        font-size: 18px;
+    }
+    .Sobre div p{
+        margin-top: -100px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+        font-size: 11px;
+        width: 250px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 170px;
+        margin-top: -120px;
+        font-size: 12px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 70px;
+        font-size: 10px;
+        width: 100px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+    }
+}
+
+@media (max-width:416px){
+    header nav{
+        padding-right: 25px;
+    }
+    header nav ul {
+        font-size: 22px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Problemas div h1{
+        margin-top: 100px;
+        font-size: 30px;
+    }
+    .Problemas div h2{
+        margin-top: 140px;
+        font-size: 12px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        height: 30px;
+        width: 120px;
+        margin-top: 240px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 0%;
+        height: 200px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -130px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+        font-size: 14px;
+    }
+    .Sobre div h2{
+        margin-top: -170px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+        font-size: 18px;
+    }
+    .Sobre div p{
+        margin-top: -100px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+        font-size: 11px;
+        width: 250px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 150px;
+        margin-top: -120px;
+        font-size: 12px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 70px;
+        font-size: 10px;
+        width: 100px;
+        margin-left: 28px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -10%;
+    }
+}
+
+@media (max-width:394px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 18px;
+    }
+    .Logo {
+        padding-left: 35px;
+        width: 80%;
+        height: 40%;
+    }
+
+    .Problemas div h1{
+        margin-top: 100px;
+        font-size: 22px;
+    }
+    .Problemas div h2{
+        margin-top: 125px;
+        font-size: 10px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        height: 20px;
+        width: 80px;
+        margin-top: 200px;
+        font-size: 8px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 0%;
+        height: 200px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -120px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+        font-size: 12px;
+    }
+    .Sobre div h2{
+        margin-top: -150px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+        font-size: 16px;
+    }
+    .Sobre div p{
+        margin-top: -100px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+        font-size: 9px;
+        width: 150px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 160px;
+        margin-top: -120px;
+        font-size: 10px;
+        width: 220px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 10px;
+        font-size: 10px;
+        width: 80px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -60px;
+    }
+}
+
+@media (max-width:360px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 14px;
+    }
+    .Logo {
+        padding-left: 35px;
+        width: 80%;
+    }
+
+    .Problemas div h1{
+        margin-top: 90px;
+        font-size: 20px;
+    }
+    .Problemas div h2{
+        margin-top: 115px;
+        font-size: 8px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        height: 20px;
+        width: 80px;
+        margin-top: 170px;
+        font-size: 8px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 0%;
+        height: 200px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -120px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+        font-size: 12px;
+    }
+    .Sobre div h2{
+        margin-top: -150px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+        font-size: 16px;
+    }
+    .Sobre div p{
+        margin-top: -100px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+        font-size: 9px;
+        width: 150px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 140px;
+        margin-top: -120px;
+        font-size: 10px;
+        width: 220px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 0px;
+        font-size: 10px;
+        width: 80px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -20%;
+    }
+}
+
+@media (max-width:280px){
+    header nav{
+        padding-right: 0px;
+    }
+    header nav ul {
+        font-size: 11px;
+    }
+    .Logo {
+        padding-left: 10px;
+        width: 90%;
+    }
+
+    .Problemas div h1{
+        margin-top: 70px;
+        font-size: 20px;
+    }
+    .Problemas div h2{
+        margin-top: 95px;
+        font-size: 8px;
+        width: 80%;
+        border-radius: 80%;
+    }
+    .Problemas button{
+        height: 20px;
+        width: 80px;
+        margin-top: 160px;
+        font-size: 8px;
+    }
+
+    .Sobre div{
+        width: 100%;
+        margin-left: 0%;
+        height: 180px;
+    }
+    .Sobre div img{
+        width: 20%;
+        margin-top: 55px;
+        margin-bottom: 55px;
+        
+    }
+    .Sobre div h4{
+        margin-top: -120px;
+        margin-bottom: -160px;
+        padding-left: 35%;
+        font-size: 12px;
+    }
+    .Sobre div h2{
+        margin-top: -150px;
+        margin-bottom: -210px;
+        padding-left: 35%;
+        font-size: 16px;
+    }
+    .Sobre div p{
+        margin-top: -100px;
+        margin-bottom: -130px;
+        padding-left: 35%;
+        font-size: 9px;
+        width: 150px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 80px;
+        margin-top: -120px;
+        font-size: 10px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 20px;
+        font-size: 10px;
+        width: 80px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -20%;
+    }
+}

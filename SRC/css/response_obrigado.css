@@ -1,0 +1,376 @@
+@media (max-width:1280px){
+    .Finalizacao {
+        margin-left: 100px;
+    }
+    
+    .Contato{
+        margin-left: 700px;
+    }
+
+    .ParagrafoDeConclusao {
+        margin-left: 0px;
+        font-size: 20px;
+    }
+
+    .Logo_Bottom{
+        width: 30%;
+        margin-top: 60px;
+    }
+}
+
+@media (max-width:1024px){
+    .Endereco p {
+        width: 200px;
+    }
+    .Finalizacao {
+        margin-left: 50px;
+    }
+    
+    .Contato{
+        margin-left: 500px;
+    }
+}
+
+@media (max-width:912px){
+    .Obrigado{
+        height : 800px;
+    }
+
+    .Obrigado img{
+        width: 70%;
+    }
+
+    .Obrigado p{
+        margin-top: 100px;
+        font-size: 28px;
+    }
+
+    .Finalizacao {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+    .Contato{
+        margin-left: 500px;
+        margin-top: -160px;
+        font-size: 16px;
+        width: 350px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 50px;
+        font-size: 16px;
+        width: 300px;
+    }
+    .Logo_Bottom{
+        width: 40%;
+        padding-left: 5%;
+    }
+}
+
+@media (max-width:820px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 20px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Finalizacao {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .Contato{
+        margin-left: 440px;
+        margin-top: -160px;
+        font-size: 16px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 10px;
+        font-size: 16px;
+    }
+    .Logo_Bottom {
+        padding-left: 10px;
+    }
+}
+
+@media (max-width:768px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 20px;
+    }
+    .Finalizacao {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .Contato{
+        margin-left: 380px;
+        margin-top: -160px;
+        font-size: 16px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    .Logo_Bottom {
+        padding-left: 20px;
+    }
+}
+
+@media (max-width:540px){
+    header nav{
+        padding-right: 70px;
+    }
+    header nav ul {
+        background-color: rgb(189, 65, 65);
+        margin-top: -14px;
+        font-size: 24px;
+    }
+    .Logo {
+        padding-left: 140px;
+    }
+    .Obrigado{
+        height : 650px;
+    }
+
+    .Obrigado p{
+        font-size: 18px;
+    }
+
+    .Obrigado img{
+        width: 80%;
+    }
+
+    .Finalizacao {
+        margin-left: -40px;
+        margin-top: 20px;
+    }
+    .Contato{
+        margin-left: 300px;
+        margin-top: -140px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 60px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .Logo_Bottom{
+        width: 30%;
+        height: 30%;
+        margin-left: 40px;
+    }
+}
+
+@media (max-width:412px){
+    header nav{
+        padding-right: 25px;
+    }
+    header nav ul {
+        font-size: 22px;
+        background-color: rgb(189, 65, 65);
+        margin-top:-13px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Obrigado{
+        height : 550px;
+    }
+
+    .Obrigado p{
+        font-size: 18px;
+    }
+
+    .Obrigado img{
+        width: 80%;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .Contato{
+        margin-left: 170px;
+        margin-top: -120px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 70px;
+        font-size: 10px;
+        width: 100px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        padding-left: 20px;
+    }
+}
+
+@media (max-width:416px){
+    header nav{
+        padding-right: 25px;
+    }
+    header nav ul {
+        font-size: 22px;
+    }
+    .Logo {
+        padding-left: 70px;
+    }
+
+    .Obrigado{
+        height: 550px;
+    }
+    .Finalizacao {
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .Contato{
+        margin-left: 180px;
+        margin-top: -120px;
+        font-size: 12px;
+        width: 200px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 10px;
+        font-size: 10px;
+        width: 100px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -10px;
+    }
+}
+
+@media (max-width:394px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        font-size: 18px;
+        margin-top: -19px;
+    }
+    .Logo {
+        padding-left: 35px;
+        width: 80%;
+        height: 40%;
+    }
+
+    .Obrigado{
+        height: 600px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 160px;
+        margin-top: -120px;
+        font-size: 10px;
+        width: 220px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 10px;
+        font-size: 10px;
+        width: 100px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -10px;
+    }
+}
+
+@media (max-width:360px){
+    header nav{
+        padding-right: 30px;
+    }
+    header nav ul {
+        background-color: rgb(189, 65, 65);
+        font-size: 16px;
+        margin-top: -15px;
+    }
+    .Logo {
+        padding-left: 35px;
+        width: 80%;
+    }
+
+    .Obrigado{
+        height: 600px;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+    }
+    .Contato{
+        margin-left: 140px;
+        margin-top: -120px;
+        font-size: 10px;
+        width: 180px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 15px;
+        font-size: 10px;
+        width: 80px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: -5px;
+    }
+}
+
+@media (max-width:280px){
+    header nav{
+        padding-right: 0px;
+        margin-top: 5px;
+    }
+    header nav ul {
+        font-size: 11px;
+    }
+    .Logo {
+        width: 90%;
+        height: 35%;
+        margin-left: -20px;
+    }
+
+    .Obrigado{
+        height : 550px;
+    }
+
+    .Obrigado p{
+        font-size: 18px;
+    }
+
+    .Obrigado img{
+        width: 80%;
+    }
+
+    .Finalizacao {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .Contato{
+        margin-left: 80px;
+        margin-top: -120px;
+        font-size: 10px;
+        width: 180px;
+    }
+    .ParagrafoDeConclusao {
+        margin-left: 20px;
+        font-size: 10px;
+        width: 80px;
+    }
+    .Logo_Bottom{
+        width: 25%;
+        height: 25%;
+        margin-left: 0%;
+    }
+}

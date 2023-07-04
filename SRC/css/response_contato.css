@@ -186,6 +186,10 @@
         height: 30%;
         margin-left: 40px;
     }
+    .marca{
+        margin-left: 40%;
+        font-size: 14px;
+    }
 }
 
 @media (max-width:412px){
@@ -245,6 +249,10 @@
         width: 25%;
         height: 25%;
         padding-left: 17px;
+    }
+    .marca{
+        margin-left: 40%;
+        font-size: 10px;
     }
 }
 
@@ -492,5 +500,9 @@
         width: 25%;
         height: 25%;
         margin-left: 0px;
+    }
+    .marca{
+        margin-left: 40%;
+        font-size: 8px;
     }
 }

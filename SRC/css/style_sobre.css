@@ -26,11 +26,24 @@ header nav ul {
 
 header nav ul li{
     display: inline-block;
-    margin-right: 40px;
+    border-right:1px solid rgb(255, 255, 255);
+}
+
+li:last-child {
+    border-right: none;
 }
 
 header nav ul li a{
+    padding: 14px 16px;
     color: black;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(228, 228, 228);
+    }
+
+.active{
+    background-color: #8c8c8c20;
 }
 
 .Logo {

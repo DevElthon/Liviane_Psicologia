@@ -265,7 +265,8 @@
 
 @media (max-width:540px){
     header nav{
-        padding-right: 70px;
+        padding-right: 100px;
+        margin-top: -10px;
     }
     header nav ul {
         font-size: 24px;
@@ -349,6 +350,7 @@
 @media (max-width:412px){
     header nav{
         padding-right: 25px;
+        margin-top: -10px;
     }
     header nav ul {
         font-size: 22px;
@@ -430,7 +432,8 @@
 
 @media (max-width:416px){
     header nav{
-        padding-right: 25px;
+        padding-right: 45px;
+        margin-top: -10px;
     }
     header nav ul {
         font-size: 22px;
@@ -509,7 +512,8 @@
 
 @media (max-width:394px){
     header nav{
-        padding-right: 30px;
+        padding-right: 55px;
+        margin-top: -20px;
     }
     header nav ul {
         font-size: 18px;
@@ -591,7 +595,8 @@
 
 @media (max-width:360px){
     header nav{
-        padding-right: 30px;
+        padding-right: 55px;
+        margin-top: -20px;
     }
     header nav ul {
         font-size: 14px;
@@ -672,7 +677,7 @@
 
 @media (max-width:280px){
     header nav{
-        padding-right: 0px;
+        padding-right: 26px;
     }
     header nav ul {
         font-size: 11px;

@@ -122,7 +122,8 @@
 
 @media (max-width:540px){
     header nav{
-        padding-right: 70px;
+        padding-right: 100px;
+        margin-top: 20px;
     }
     header nav ul {
         background-color: rgb(189, 65, 65);
@@ -133,6 +134,7 @@
         padding-left: 140px;
     }
     .Obrigado{
+        margin-top: 70px;
         height : 650px;
     }
 
@@ -173,6 +175,7 @@
 @media (max-width:412px){
     header nav{
         padding-right: 25px;
+        margin-top: -10px;
     }
     header nav ul {
         font-size: 22px;
@@ -223,7 +226,8 @@
 
 @media (max-width:416px){
     header nav{
-        padding-right: 25px;
+        padding-right: 45px;
+        margin-top: 20px;
     }
     header nav ul {
         font-size: 22px;
@@ -233,6 +237,7 @@
     }
 
     .Obrigado{
+        margin-top: 65px;
         height: 550px;
     }
     .Finalizacao {
@@ -259,7 +264,8 @@
 
 @media (max-width:394px){
     header nav{
-        padding-right: 30px;
+        padding-right: 55px;
+        margin-top: 10px;
     }
     header nav ul {
         font-size: 18px;
@@ -272,6 +278,7 @@
     }
 
     .Obrigado{
+        margin-top: 50px;
         height: 600px;
     }
 
@@ -298,12 +305,11 @@
 
 @media (max-width:360px){
     header nav{
-        padding-right: 30px;
+        padding-right: 55px;
+        margin-top: 10px;
     }
     header nav ul {
-        background-color: rgb(189, 65, 65);
-        font-size: 16px;
-        margin-top: -15px;
+        font-size: 14px;
     }
     .Logo {
         padding-left: 35px;
@@ -311,6 +317,7 @@
     }
 
     .Obrigado{
+        margin-top: 45px;
         height: 600px;
     }
 
@@ -337,8 +344,8 @@
 
 @media (max-width:280px){
     header nav{
-        padding-right: 0px;
-        margin-top: 5px;
+        padding-right: 26px;
+        margin-top: 20px;
     }
     header nav ul {
         font-size: 11px;
@@ -350,6 +357,7 @@
     }
 
     .Obrigado{
+        margin-top: 40px;
         height : 550px;
     }
 

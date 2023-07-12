@@ -12,13 +12,26 @@
     <header>
         <img src="/SRC/img/Liviane Psico logo.png" alt="Liviane Psicóloga" class="Logo">
 
-        <nav>
+        <nav class="nav-bar">
+            <ul class="main-menu"> 
+                <li><a href="/index.html">Início</a></li>
+                <li><a href="/HTML/sobre.html">Sobre</a></li>
+                <li><a href="/HTML/contato.html" class="active">Contato</a></li>
+            </ul>
+
+            <div class="mobile-menu-icon">
+                <button onclick="menuShow()">
+                    <img class="icon" src="/SRC/img/icons8-menu-arredondado-48 (2).png" alt="menu-mobile">
+                </button>
+            </div>
+        </nav>
+        <div class="mobile-menu">
             <ul>
                 <li><a href="/index.html">Início</a></li>
                 <li><a href="/HTML/sobre.html">Sobre</a></li>
                 <li><a href="/HTML/contato.html" class="active">Contato</a></li>
             </ul>
-        </nav>
+        </div>
     </header>
 
     <main>
@@ -85,7 +98,9 @@
                 <li>livian.psicologia@gmail.com</li>
             </ul>
         </div>
+        <hr>
         <p class="marca">© 2023 Dev Elthon.</p>
     </footer>
+    <script src="/JS/index.js"></script>
 </body>
 </html>

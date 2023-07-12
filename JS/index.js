@@ -34,4 +34,15 @@ function iniciarTemporizador() {
     trocarImagem(); // Troca a imagem imediatamente
   
     setInterval(trocarImagem, 20000); // Chama a função trocarImagem a cada 10 segundos
-  }
+}
+
+//funcao para botao de menu mobile
+function menuShow(){
+    let menuMobile = document.querySelector('.mobile-menu');
+    if(menuMobile.classList.contains('open')){
+        menuMobile.classList.remove('open');
+    }
+    else{
+        menuMobile.classList.add('open');
+    }
+}

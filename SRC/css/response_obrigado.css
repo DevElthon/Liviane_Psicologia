@@ -179,8 +179,11 @@
     .mobile-menu-icon{
         margin-top: 60px;
     }
+    .mobile-menu{
+        margin-left: 300px;
+    }
     .mobile-menu ul{
-        margin-top: 180px;
+        margin-top: 400px;
     }
     .Logo {
         margin-top: -5px;
@@ -235,10 +238,10 @@
     }
     .mobile-menu{
         width: 50%;
-        margin-left: 203px;
+        margin-left: 220px;
     }
     .mobile-menu ul{
-        margin-top: 200px;
+        margin-top: 400px;
     }
 
     .Logo {
@@ -294,10 +297,10 @@
     }
     .mobile-menu{
         width: 50%;
-        margin-left: 203px;
+        margin-left: 220px;
     }
     .mobile-menu ul{
-        margin-top: 200px;
+        margin-top: 400px;
     }
     .Logo {
         margin-left: -20px;
@@ -348,7 +351,7 @@
         margin-left: 203px;
     }
     .mobile-menu ul{
-        margin-top: 200px;
+        margin-top: 400px;
     }
     .Logo {
         margin-left: -30px;
@@ -397,7 +400,7 @@
         margin-left: 190px;
     }
     .mobile-menu ul{
-        margin-top: 200px;
+        margin-top: 400px;
     }
     .Logo {
         margin-left: -30px;
@@ -444,7 +447,7 @@
         margin-left: 145px;
     }
     .mobile-menu ul{
-        margin-top: 200px;
+        margin-top: 400px;
     }
     .Logo {
         margin-left: -50px;

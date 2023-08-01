@@ -1,0 +1,158 @@
+html{
+    font-family: sans-serif;
+    background-color: rgb(73, 192, 180);
+    overflow-x: hidden;
+}
+header {
+    background-color: rgb(73, 192, 180);
+    width: 100%;
+    height: 200px;
+}
+
+.mobile-menu-icon {
+    display: none;
+}
+
+.mobile-menu{
+    display: none;
+}
+
+.open{
+    display: block;
+}
+
+header nav{
+    display: flex;
+    float: right;
+    justify-content: right;
+    align-items: top;
+    padding-top: 90px;
+    padding-right: 100px;
+}
+
+header nav ul {
+    position: relative;
+    z-index: 1;
+    font-size: 18px;
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    border-right:1px solid rgb(255, 255, 255);
+}
+
+li:last-child {
+    border-right: none;
+}
+
+header nav ul li a{
+    padding: 14px 16px;
+    color: rgb(255, 255, 255);
+}
+
+li a:hover:not(.active) {
+    background-color: rgba(100, 157, 154, 0.212);
+}
+
+.active{
+    background-color: #8c8c8c20;
+}
+
+.Logo {
+    width: 15%;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+main {
+    width: 100%;
+    background-color: rgb(189, 227, 227);
+}
+
+.Sobre {
+    background-color: rgb(189, 227, 227);
+    margin-left: 25%;
+    height: 750px;
+}
+
+.Sobre img{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: -200px;
+    width: 30%;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.Sobre h4{
+    position: absolute;
+    float:right;
+    padding-left: 26.5%;
+    margin-top: -350px;
+    margin-bottom: -210px;
+    font-size: 24px;
+}
+
+.Sobre h2{
+    position: absolute;
+    float: left;
+    padding-left: 26.5%;
+    margin-top: -450px;
+    margin-bottom: -400px;
+    font-size: 54px;
+}
+
+.Sobre p{
+    position: absolute;
+    float: left;
+    padding-left: 26.5%;
+    margin-top: -290px;
+    margin-bottom: -24px;
+    text-align: left;
+    font-size: 16px;
+    width: 500px;
+    color: #5b5b5b;
+    display: block;
+}
+.Finalizacao {
+    margin-left: 200px;
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+
+.Contato{
+    position: absolute;
+    font-size: 14px;
+    float: left;
+    margin-left: 750px;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    color: rgb(240, 240, 240);
+}
+
+.ParagrafoDeConclusao {
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 14px;
+    width: 400px;
+    color: rgb(240, 240, 240);
+}
+.Logo_Bottom {
+    width: 15%;
+    padding-top: 70px;
+    padding-left: 90px;
+}
+
+hr{
+    border-color: white;
+    border-radius: 10px;
+}
+
+.marca{
+    margin-left: 45%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: white;
+}

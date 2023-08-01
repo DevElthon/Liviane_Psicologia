@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/style_contato.css">
+    <link rel="stylesheet" href="/static/css/reset.css">
+    <link rel="stylesheet" href="/static/css/response_contato.css">
+    <title>Liviane Psicologia</title>
+</head>
+<body>
+    <header>
+        <img src="/static/images/Liviane Psico logo.png" alt="Liviane Psicóloga" class="Logo">
+
+        <nav class="nav-bar">
+            <ul class="main-menu"> 
+                <li><a href="/">Início</a></li>
+                <li><a href="/sobre">Sobre</a></li>
+                <li><a href="/contato" class="active">Contato</a></li>
+            </ul>
+
+            <div class="mobile-menu-icon">
+                <button onclick="menuShow()">
+                    <img class="icon" src="/static/images/icons8-menu-arredondado-48 (2).png" alt="menu-mobile">
+                </button>
+            </div>
+        </nav>
+        <div class="mobile-menu">
+            <ul>
+                <li><a href="/">Início</a></li>
+                <li><a href="/sobre">Sobre</a></li>
+                <li><a href="/contato" class="active">Contato</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main>
+        <section class="Mapa">
+            <div>
+                <!-- Verificar como adicionar mapa do google em tempo real -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7315.653203841342!2d-46.57080437179112!3d-23.538738233005787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5eedb7d1b0b3%3A0xf690b7b6ad60087b!2sR.%20Vilela%2C%20652%20-%20Tatuap%C3%A9%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003314-000!5e0!3m2!1spt-BR!2sbr!4v1686950438476!5m2!1spt-BR!2sbr"
+                style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
+        
+
+        <section>
+            <div class="Endereco">
+                <h2>Endereço</h2>
+    
+                <h3>Localização:</h3>
+                <p>Rua Vilela, 652 - Tatuapé, São Paulo - SP, 03314-000</p>
+    
+                <h3>Telefone:</h3>
+                <p>(11) 98361-0917</p>
+    
+                <h3>Email:</h3>
+                <p>livian.psicologia@gmail.com</p>
+            </div>
+
+            <div  class="Formulario">
+                <form action="https://api.staticforms.xyz/submit" method="post">
+                    <h2>Contate-me!</h2>
+                    <label> Nome</label>
+                    <input type="text" name="name" placeholder="Digite seu nome" autocomplete="off" required>
+    
+                    <label>Email</label>
+                    <input type="email" name="email" placeholder="Digite seu e-mail" autocomplete="off" required>
+    
+                    <label>
+                        Mensagem
+                    </label>
+                    <textarea name="message" id="" cols="30" rows="10" placeholder="Digite sua mensagem" required></textarea>
+                    <button type="submit">Enviar</button>
+    
+                    <input type="hidden" name="accessKey" value="61a8dc89-fe5c-4d0f-ac7a-b62dcd998144">
+
+                    <!-- substituir por página de agradecimento -->
+                    <input type="hidden" name="redirectTo" value="http://127.0.0.1:5500/HTML/obrigado.html">
+                </form>
+            </div>
+            
+        </section>
+    </main>
+
+    <footer>
+        <div class="Finalizacao">
+            <img src="/static/images/Liviane Psico logo.png" alt="Liviane Psicóloga" class="Logo_Bottom">
+            <p class="ParagrafoDeConclusao">Psicóloga clínica e especializada em Análise Clínica do Comportamento. 
+                <br>
+                (CRP 06/124931)</p>
+        </div>
+
+        <div class="Contato">
+            <ul>
+                <li>(11) 98361-0917</li>
+                <li>Rua Vilela, 652 - Tatuapé, São Paulo - SP, 03314-000</li>
+                <li>livian.psicologia@gmail.com</li>
+            </ul>
+        </div>
+        <hr>
+        <p class="marca">© 2023 Dev Elthon.</p>
+    </footer>
+    <script src="/JS/index.js"></script>
+</body>
+</html>
